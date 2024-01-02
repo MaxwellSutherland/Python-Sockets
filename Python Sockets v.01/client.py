@@ -4,7 +4,7 @@ import time
 IP              = str()
 PORT            = int()
 ADDR            = (0, 0)
-SIZE            = 224488
+SIZE            = 1024
 FORMAT          = "utf-8"
 DISCONNECT_MSG  = "!DISCONNECT"
 connected       = True
